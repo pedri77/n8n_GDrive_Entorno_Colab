@@ -1,21 +1,15 @@
 # n8n_GDrive_Entorno_Colab
 
-🧠 Modo de uso rápido
+✅ Cómo usarlo:
 
-Abre Google Colab
+Crea un archivo llamado
+n8n_GDrive_comprimido_Colab.ipynb
 
-Crea un nuevo notebook y pega todo este contenido.
+Pega este contenido JSON completo dentro (en un editor de texto).
 
-Ejecuta celda por celda:
+Sube el archivo a
+👉 https://colab.research.google.com
 
-1️⃣ inicia n8n con autenticación
+(o a tu Drive directamente).
 
-2️⃣ crea backups diarios
-
-3️⃣ restaura versiones
-
-4️⃣ exporta ZIP
-
-5️⃣ genera informe visual (se abre automáticamente)
-
-Todos los datos persistirán en tu Google Drive.
+Ejecútalo celda por celda.
