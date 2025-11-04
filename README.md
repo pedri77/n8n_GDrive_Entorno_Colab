@@ -3,7 +3,7 @@
 ✅ Cómo usarlo:
 
 Crea un archivo llamado
-n8n_GDrive_comprimido_Colab.ipynb
+Create n8n_úni_Colab.ipynb
 
 Pega este contenido JSON completo dentro (en un editor de texto).
 
